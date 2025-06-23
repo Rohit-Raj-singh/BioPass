@@ -9,7 +9,7 @@ An IoT-based project to automate student attendance using:
 - Web admin panel for data management
 
 ## Folder Structure
-- Biopass.ino → ESP8266 firmware
+- Biopass.ino → Arduino IDE
 - backend/ → Node.js + MongoDB API
 - frontend/ → Web dashboard
 
