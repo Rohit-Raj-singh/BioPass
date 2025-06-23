@@ -42,6 +42,11 @@ An IoT-based project to automate student attendance using:
 
 <img src = "https://github.com/user-attachments/assets/812c358b-b81e-404c-8611-e724970d12d0" width="500/>
 
+## How to Run
+1. Upload firmware to ESP8266
+2. Run `npm install` in backend folder
+3. Configure MongoDB & SMS API keys
+4. Start server using `node server.js`
 
 ## Author
 Rohit Raj
