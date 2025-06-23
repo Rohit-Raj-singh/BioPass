@@ -20,7 +20,7 @@ An IoT-based project to automate student attendance using:
 ✅ Real-time attendance + SMS alert  
 ✅ Web interface + REST API
 
-![WhatsApp Image 2025-06-23 at 11 11 23_f741feec](https://github.com/user-attachments/assets/052e5b8e-1d9f-4b8d-bee2-91a1e041cf97)
+<img src = "https://github.com/user-attachments/assets/052e5b8e-1d9f-4b8d-bee2-91a1e041cf97" width="500/>
 
 
 ## Author
