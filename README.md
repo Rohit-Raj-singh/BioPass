@@ -22,6 +22,17 @@ An IoT-based project to automate student attendance using:
 
 ## Hardware image💻
 <img src = "https://github.com/user-attachments/assets/675b82db-a075-4df1-a927-870d6e2d7e91" width="500/>
+<img src = "https://github.com/user-attachments/assets/bd18cc91-3370-4adb-8722-8cda2bd71e52" width="500/>
+<img src = "https://github.com/user-attachments/assets/3e66285d-6ccd-43c5-90a0-e0bc90ea05c2" width="500/>
+<img src = "https://github.com/user-attachments/assets/da71b1a2-677e-4aa4-8596-9ecf82e2671c" width="500/>
+<img src = "https://github.com/user-attachments/assets/fe906f15-0bd9-4992-b28a-21664ca865c5" width="500/>
+
+## Software💻
+<img src = "https://github.com/user-attachments/assets/6ef3db4a-09fb-4ed6-84f1-99bf6be22070" width="500/>
+<img src = "https://github.com/user-attachments/assets/79af6b7f-f37b-47aa-9b93-18cd1afadffb" width="500/>
+<img src = "https://github.com/user-attachments/assets/6d308128-09fc-430d-928f-746c154722f5" width="500/>
+<img src = "https://github.com/user-attachments/assets/1bf31942-6b18-4950-bde4-60d260bf4ed4" width="500/>
+<img src = "https://github.com/user-attachments/assets/812c358b-b81e-404c-8611-e724970d12d0" width="500/>
 
 
 ## Author
