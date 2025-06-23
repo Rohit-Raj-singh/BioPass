@@ -32,11 +32,9 @@ An IoT-based project to automate student attendance using:
 <img src = "https://github.com/user-attachments/assets/fe906f15-0bd9-4992-b28a-21664ca865c5" width="500/>
 
 ## Software💻
-<img src = "https://github.com/user-attachments/assets/6ef3db4a-09fb-4ed6-84f1-99bf6be22070"
-width="500/>
+<img src = "https://github.com/user-attachments/assets/6ef3db4a-09fb-4ed6-84f1-99bf6be22070" width="500/>
 
-<img src = "https://github.com/user-attachments/assets/79af6b7f-f37b-47aa-9b93-18cd1afadffb"
-width="500/>
+<img src = "https://github.com/user-attachments/assets/79af6b7f-f37b-47aa-9b93-18cd1afadffb" width="500/>
 
 <img src = "https://github.com/user-attachments/assets/6d308128-09fc-430d-928f-746c154722f5" width="500/>
 
